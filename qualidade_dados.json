@@ -1,0 +1,24 @@
+{
+  "source": "Planilha base Porsche (sanitizada), fornecida no desafio da DIO",
+  "rows": 100,
+  "uniqueIds": 100,
+  "cities": 79,
+  "models": 40,
+  "states": 33,
+  "invalidDates": 24,
+  "sourceFormulaCells": 0,
+  "totalCents": 1282780050,
+  "currency": "USD",
+  "numericFields": [
+    "id",
+    "year",
+    "priceCents",
+    "mileage"
+  ],
+  "removedPersonalFields": [
+    "customer_name",
+    "salesperson"
+  ],
+  "dateRule": "Datas sanitizadas INVALID viram null / Sem data. As vendas permanecem em todos os totais e agrupamentos por modelo, ano-modelo e estado.",
+  "ties": "Contagem decrescente e nome em ordem alfabética. Empates são explicitados nos indicadores."
+}
