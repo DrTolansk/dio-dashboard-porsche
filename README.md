@@ -7,7 +7,7 @@ Dashboard interativo de vendas desenvolvido para o desafio da DIO, com autoria d
 ## Acessos
 
 - [Repositório do projeto](https://github.com/DrTolansk/dio-dashboard-porsche)
-- [Dashboard no GitHub Pages](https://drtolansk.github.io/dio-dashboard-porsche/) — disponível após publicar os arquivos e ativar Pages.
+- [Dashboard no GitHub Pages](https://drtolansk.github.io/dio-dashboard-porsche/) — publicado e disponível.
 - Para abrir a versão local, baixe [index.html](index.html) e abra em um navegador com JavaScript habilitado.
 - [Passo a passo de publicação pelo celular](COMO_PUBLICAR.md).
 
